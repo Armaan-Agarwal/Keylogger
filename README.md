@@ -15,4 +15,5 @@ Before running the keylogger, ensure you have the following dependencies install
 - Python (version 3.8 or later)
 - Pynput library (install via `pip install pynput`)
 
-  ![keylogger](https://github.com/Armaan-Agarwal/Keylogger/assets/139562023/890ba8e9-d05d-4be1-9ffb-97ac2f017a06)
+  ![keylogger](https://github.com/Armaan-Agarwal/Keylogger/assets/139562023/d340fb1a-7dcc-47b1-8682-e7bfac4ea41f)
+
