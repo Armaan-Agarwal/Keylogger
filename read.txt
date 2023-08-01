@@ -1,0 +1,1 @@
+All the data of the keys that will be used on the keyboard will be stored in this file.
