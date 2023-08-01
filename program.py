@@ -14,7 +14,7 @@ def release(key):                                                   # stores the
         return False
 
 def write_file(f):                                                   
-    with open("read.txt","a") as file:                               # open the file
+    with open("read.txt","a") as file:                               # open the file named as read.txt in append mode
         for i in range(len(f)):
             alpha=str(f[i]).replace("'",'')                           
             if alpha.find("enter")>0:
