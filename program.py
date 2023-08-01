@@ -30,13 +30,7 @@ def write_file(f):
                 file.write("\b")
 
             elif alpha.find(".caps_lock")>0:
-                count=0
-                if count==0:
-                    file.write("\n\n ->Capslock on \n")
-                    count+=1
-                elif count>0:
-                    file.write("\n\n -->Caplock off \n")
-                    count=0
+                file.write("\n\n ->Capslock \n")
             
             elif alpha.find(".shift")>0:
                 file.write("")
